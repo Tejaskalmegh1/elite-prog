@@ -1,3 +1,5 @@
+// 30 dec 2025
+
 // Declare an integer variable age and assign value 20, Print the value using printf() 
 
 #include<stdio.h>

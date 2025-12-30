@@ -1,3 +1,5 @@
+// 30 dec 2025
+
 // Understand variable assignment, Declare two integers x = 10, y = 20 Print values before swap and after swap (use a third variable)
 
 #include<stdio.h>
