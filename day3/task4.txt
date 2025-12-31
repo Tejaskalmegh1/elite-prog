@@ -2,4 +2,4 @@
 
 Task 4: deeply learn format specifier, variable declaration, Data types in c
 
-- Completed
+- Completed...
