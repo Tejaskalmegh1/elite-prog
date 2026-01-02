@@ -1,3 +1,7 @@
+// 02 jan 2026
+
+// Write a C program to declare: one integer variable one float variable one character variable
+
 #include<stdio.h>
 
 int main()
