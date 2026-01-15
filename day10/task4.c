@@ -8,24 +8,17 @@
 
 int main()
 {
-    int i = 1, j = 1, number = 234 , container ;
+    int inputNumber , container ;
     
-    // printf("\n Enter the number: ");
-    // scanf("%d",&number);
-
-    while (i < 4)
+    printf("\n Enter the number: ");
+    scanf("%d",&inputNumber);
+    
+    while (inputNumber > 0)
     {
-        while (j < i)
-        {        
-        number = number % 10 ;
-        container = number ;
-        printf("\n j %d", container);
-        j++;
-        }
-        printf("\n i %d", container);
-        i++;
+        container = inputNumber % 10 ;
+        printf("%d",container);
+        inputNumber = inputNumber / 10 ;
     }
-    printf("\n out %d", container);    
 
     return 0;    
 }
